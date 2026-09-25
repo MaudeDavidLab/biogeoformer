@@ -1,0 +1,5 @@
+Validation accuracy: 0.9774
+Baseline NLL: 0.1815, ECE: 0.0960
+
+       T      NLL      ECE
+  0.8908   0.1345   0.0529

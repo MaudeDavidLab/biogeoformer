@@ -1,3 +1,0 @@
-[Wed Aug 27 07:29:49 PM UTC 2025] Node: microbiome
-[Wed Aug 27 07:29:49 PM UTC 2025] Running task 209/330
-[Wed Aug 27 07:29:49 PM UTC 2025] Command: /local/cluster/cd-hit-v4.8.1-2019-0228/clstr2txt.pl "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_70_80/split_data_70_80_90/split_data_70_80_90_100/pentose_from70_80_90_100.clstr" > "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/output_tables/pentose_70.txt"

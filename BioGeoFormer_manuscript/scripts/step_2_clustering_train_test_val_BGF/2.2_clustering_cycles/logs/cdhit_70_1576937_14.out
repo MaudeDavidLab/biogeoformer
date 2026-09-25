@@ -1,47 +1,0 @@
-[Wed Aug 27 05:31:04 AM UTC 2025] Node: calculon
-[Wed Aug 27 05:31:05 AM UTC 2025] Task 14 using 16 threads
-Command: cd-hit -i "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_80/nitrogen_other_c80.faa" -o "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_70/nitrogen_other_c70.faa" -c 0.70 -n 5 -M 61440 -T 16
-================================================================
-Program: CD-HIT, V4.8.1 (+OpenMP), Dec 13 2024, 22:16:14
-Command: cd-hit -i
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_80/nitrogen_other_c80.faa
-         -o
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_70/nitrogen_other_c70.faa
-         -c 0.70 -n 5 -M 61440 -T 16
-
-Started: Wed Aug 27 05:31:05 2025
-================================================================
-                            Output                              
-----------------------------------------------------------------
-total seq: 1081
-longest and shortest : 1038 and 38
-Total letters: 562814
-Sequences have been sorted
-
-Approximated minimal memory consumption:
-Sequence        : 0M
-Buffer          : 16 X 16M = 259M
-Table           : 2 X 65M = 130M
-Miscellaneous   : 0M
-Total           : 391M
-
-Table limit with the given memory limit:
-Max number of representatives: 4000000
-Max number of word counting entries: 7631095139
-
-# comparing sequences from          0  to         60
----------- new table with       43 representatives
-# comparing sequences from         60  to        116
-...................36.8%37.3%37.5%37.7%41.2%41.9%45.7%46.3%46.9%47.7%48.8%49.5%49.9%53.6%54.3%54.9%58.0%58.5%61.3%65.4%67.0%67.8%68.3%68.5%69.4%71.3%71.7%73.1%74.5%77.5%78.4%79.5%83.0%84.1%---------- new table with       33 representatives
-# comparing sequences from        116  to       1081
-.................---------- new table with      356 representatives
-
-     1081  finished        432  clusters
-
-Approximated maximum memory consumption: 392M
-writing new database
-writing clustering information
-program completed !
-
-Total CPU time 6.23
-[Wed Aug 27 05:31:13 AM UTC 2025] Task 14 finished.

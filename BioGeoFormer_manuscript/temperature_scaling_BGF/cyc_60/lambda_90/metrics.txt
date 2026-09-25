@@ -1,3 +1,0 @@
-Lambda: 90
-Before Temp - NLL: 4.747, ECE: 0.379
-After Temp - NLL: 3.160, ECE: 0.106

@@ -1,109 +1,0 @@
-[Wed Aug 27 05:38:36 AM UTC 2025] Node: calculon
-[Wed Aug 27 05:38:37 AM UTC 2025] Task 16 using 16 threads
-Command: cd-hit -i "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_70/org_phos_hyd_c70.faa" -o "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_60/org_phos_hyd_c60.faa" -c 0.60 -n 4 -M 61440 -T 16
-================================================================
-Program: CD-HIT, V4.8.1 (+OpenMP), Dec 13 2024, 22:16:14
-Command: cd-hit -i
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_70/org_phos_hyd_c70.faa
-         -o
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_60/org_phos_hyd_c60.faa
-         -c 0.60 -n 4 -M 61440 -T 16
-
-Started: Wed Aug 27 05:38:37 2025
-================================================================
-                            Output                              
-----------------------------------------------------------------
-total seq: 4738
-longest and shortest : 6971 and 59
-Total letters: 2109390
-Sequences have been sorted
-
-Approximated minimal memory consumption:
-Sequence        : 2M
-Buffer          : 16 X 17M = 280M
-Table           : 2 X 3M = 6M
-Miscellaneous   : 0M
-Total           : 289M
-
-Table limit with the given memory limit:
-Max number of representatives: 4000000
-Max number of word counting entries: 7643764252
-
-# comparing sequences from          0  to        263
----------- new table with      158 representatives
-# comparing sequences from        263  to        511
-...................----------     35 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from        476  to        712
-..................----------     29 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from        683  to        908
-..................----------     85 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from        823  to       1040
-...................----------     62 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from        978  to       1186
-...................----------     32 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1154  to       1353
-..................----------     30 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1323  to       1512
-...............----------     21 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1491  to       1671
-................----------      2 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1669  to       1839
-..............---------- new table with      100 representatives
-# comparing sequences from       1839  to       2000
-................---------- new table with       90 representatives
-# comparing sequences from       2000  to       2152
-................---------- new table with       82 representatives
-# comparing sequences from       2152  to       2295
-............---------- new table with       80 representatives
-# comparing sequences from       2295  to       2430
-................---------- new table with       78 representatives
-# comparing sequences from       2430  to       2558
-................---------- new table with       82 representatives
-# comparing sequences from       2558  to       2679
-...............---------- new table with       64 representatives
-# comparing sequences from       2679  to       2793
-..................---------- new table with       61 representatives
-# comparing sequences from       2793  to       2901
-................---------- new table with       63 representatives
-# comparing sequences from       2901  to       3003
-...............---------- new table with       58 representatives
-# comparing sequences from       3003  to       3099
-................---------- new table with       58 representatives
-# comparing sequences from       3099  to       3190
-............---------- new table with       60 representatives
-# comparing sequences from       3190  to       3276
-..............---------- new table with       59 representatives
-# comparing sequences from       3276  to       3357
-...............---------- new table with       57 representatives
-# comparing sequences from       3357  to       3433
-...............---------- new table with       54 representatives
-# comparing sequences from       3433  to       3505
-...............---------- new table with       48 representatives
-# comparing sequences from       3505  to       3573
-...........---------- new table with       56 representatives
-# comparing sequences from       3573  to       3637
-..............---------- new table with       45 representatives
-# comparing sequences from       3637  to       3698
-............89.9%90.5%90.7%90.9%91.1%91.2%91.4%91.7%91.8%92.0%92.1%92.3%92.5%92.8%94.0%94.2%94.4%94.6%94.8%95.0%95.2%95.4%95.5%95.8%96.1%96.3%96.6%96.8%97.5%98.0%98.2%---------- new table with       38 representatives
-# comparing sequences from       3698  to       3755
-...............---------- new table with       40 representatives
-# comparing sequences from       3755  to       4738
-...............---------- new table with      663 representatives
-
-     4738  finished       2894  clusters
-
-Approximated maximum memory consumption: 291M
-writing new database
-writing clustering information
-program completed !
-
-Total CPU time 18.40
-[Wed Aug 27 05:38:47 AM UTC 2025] Task 16 finished.

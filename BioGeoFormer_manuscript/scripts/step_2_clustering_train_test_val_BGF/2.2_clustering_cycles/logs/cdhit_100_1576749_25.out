@@ -1,329 +1,0 @@
-[Tue Aug 26 09:48:41 PM PDT 2025] Running task 25 on 16 threads
-Command: cd-hit -i "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data/combined100_phosphotransferase.faa" -o "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_100/phosphotransferase_c100.faa" -c 1.00 -n 5 -M 61440 -T 16
-================================================================
-Program: CD-HIT, V4.8.1 (+OpenMP), Dec 13 2024, 22:16:14
-Command: cd-hit -i
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data/combined100_phosphotransferase.faa
-         -o
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_100/phosphotransferase_c100.faa
-         -c 1.00 -n 5 -M 61440 -T 16
-
-Started: Tue Aug 26 21:48:42 2025
-================================================================
-                            Output                              
-----------------------------------------------------------------
-total seq: 11184
-longest and shortest : 1318 and 19
-Total letters: 3701024
-Sequences have been sorted
-
-Approximated minimal memory consumption:
-Sequence        : 5M
-Buffer          : 16 X 16M = 262M
-Table           : 2 X 65M = 131M
-Miscellaneous   : 0M
-Total           : 399M
-
-Table limit with the given memory limit:
-Max number of representatives: 4000000
-Max number of word counting entries: 7630120054
-
-# comparing sequences from          0  to        621
----------- new table with      621 representatives
-# comparing sequences from        621  to       1207
-....................----------    486 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from        721  to       1302
-...................----------    481 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from        821  to       1396
-....................----------    475 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from        921  to       1491
-.....................----------    470 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1021  to       1585
-...................----------    464 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1121  to       1680
-...................----------    459 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1221  to       1774
-....................----------    453 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1321  to       1868
-...................----------    447 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1421  to       1963
-....................----------    442 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1521  to       2057
-....................----------    436 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1621  to       2152
-...................----------    431 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1721  to       2246
-....................----------    425 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1821  to       2341
-...................----------    420 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1921  to       2435
-.....................----------    414 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       2021  to       2530
-....................----------    409 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       2121  to       2624
-...................----------    403 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       2221  to       2718
-....................----------    397 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       2321  to       2813
-....................----------    392 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       2421  to       2907
-....................----------    386 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       2521  to       3002
-....................----------    381 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       2621  to       3096
-...................----------    375 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       2721  to       3191
-...................----------    370 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       2821  to       3285
-...................----------    364 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       2921  to       3380
-.....................----------    359 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       3021  to       3474
-....................----------    353 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       3121  to       3568
-....................----------    347 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       3221  to       3663
-...................----------    342 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       3321  to       3757
-....................----------    336 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       3421  to       3852
-....................----------    331 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       3521  to       3946
-...................----------    325 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       3621  to       4041
-...................----------    320 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       3721  to       4135
-...................----------    314 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       3821  to       4230
-....................----------    309 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       3921  to       4324
-....................----------    303 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       4021  to       4418
-...................----------    297 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       4121  to       4513
-...................----------    292 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       4221  to       4607
-...................----------    286 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       4321  to       4702
-...................----------    281 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       4421  to       4796
-....................----------    275 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       4521  to       4891
-....................----------    270 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       4621  to       4985
-...................----------    264 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       4721  to       5080
-....................----------    259 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       4821  to       5174
-....................----------    253 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       4921  to       5268
-....................----------    247 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       5021  to       5363
-...................----------    242 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       5121  to       5457
-...................----------    236 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       5221  to       5552
-...................----------    231 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       5321  to       5646
-....................----------    225 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       5421  to       5741
-...................----------    220 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       5521  to       5835
-...................----------    214 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       5621  to       5930
-...................----------    209 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       5721  to       6024
-...................----------    203 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       5821  to       6118
-...................----------    197 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       5921  to       6213
-.....................----------    192 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       6021  to       6307
-...................----------    186 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       6121  to       6402
-..................----------    181 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       6221  to       6496
-...................----------    175 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       6321  to       6591
-...................----------    170 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       6421  to       6685
-...................----------    164 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       6521  to       6780
-....................----------    159 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       6621  to       6874
-...................----------    153 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       6721  to       6968
-...................----------    147 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       6821  to       7063
-...................----------    142 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       6921  to       7157
-.....................----------    136 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       7021  to       7252
-...................----------    131 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       7121  to       7346
-...................----------    125 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       7221  to       7441
-...................----------    120 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       7321  to       7535
-...................----------    114 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       7421  to       7630
-...................----------    109 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       7521  to       7724
-...................----------    103 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       7621  to       7818
-...................----------     97 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       7721  to       7913
-...................----------     92 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       7821  to       8007
-..................----------     86 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       7921  to       8102
-...................----------     81 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       8021  to       8196
-...................----------     75 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       8121  to       8291
-...................----------     70 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       8221  to       8385
-..................----------     64 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       8321  to       8480
-...................----------     59 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       8421  to       8574
-...................----------     53 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       8521  to       8668
-..................----------     47 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       8621  to       8763
-..................----------     42 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       8721  to       8857
-....................----------     36 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       8821  to       8952
-..................----------     31 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       8921  to       9046
-...................----------     25 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       9021  to       9141
-.................----------     20 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       9121  to       9235
-...................----------     14 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       9221  to       9330
-..................----------      9 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       9321  to       9424
-.................----------      3 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       9421  to       9518
-...................---------- new table with       97 representatives
-# comparing sequences from       9518  to       9610
-..................---------- new table with       92 representatives
-# comparing sequences from       9610  to       9697
-..................---------- new table with       87 representatives
-# comparing sequences from       9697  to       9779
-................---------- new table with       82 representatives
-# comparing sequences from       9779  to       9857
-....................---------- new table with       78 representatives
-# comparing sequences from       9857  to       9930
-..................---------- new table with       73 representatives
-# comparing sequences from       9930  to       9999
-.................---------- new table with       69 representatives
-# comparing sequences from       9999  to      10064
-...........................    10000  finished      10000  clusters
----------- new table with       65 representatives
-# comparing sequences from      10064  to      10126
-................---------- new table with       62 representatives
-# comparing sequences from      10126  to      10184
-...................---------- new table with       58 representatives
-# comparing sequences from      10184  to      11184
-.....................---------- new table with     1000 representatives
-
-    11184  finished      11184  clusters
-
-Approximated maximum memory consumption: 403M
-writing new database
-writing clustering information
-program completed !
-
-Total CPU time 23.13
-[Tue Aug 26 09:48:55 PM PDT 2025] Task 25 finished.

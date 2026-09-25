@@ -1,4 +1,0 @@
-[Wed Aug 27 07:16:11 PM UTC 2025] Node: microbiome
-[Wed Aug 27 07:16:14 PM UTC 2025] Running task 252/330
-[Wed Aug 27 07:16:16 PM UTC 2025] Command: /local/cluster/cd-hit-v4.8.1-2019-0228/clstr2txt.pl "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_80_90/split_data_80_90_100/aceti_met_from80_90_100.clstr" > "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/output_tables/aceti_met_80.txt"
-[Wed Aug 27 07:16:50 PM UTC 2025] Done.

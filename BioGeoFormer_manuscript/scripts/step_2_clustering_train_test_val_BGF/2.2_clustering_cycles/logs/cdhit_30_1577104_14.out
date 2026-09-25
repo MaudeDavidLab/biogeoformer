@@ -1,9 +1,0 @@
-[Wed Aug 27 12:09:07 AM PDT 2025] Host: makaira.hpc.oregonstate.edu
-[Wed Aug 27 12:09:07 AM PDT 2025] Task 14 using 16 CPUs; mem=65536
-Command: /local/cluster/cd-hit-v4.8.1-2019-0228/psi-cd-hit/psi-cd-hit.pl -i "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_40/nitrogen_other_c40.faa" -o "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_30/nitrogen_other_c30.faa" -c 0.3 -para 4 -blp 4
-BLAST version:
-blastp: 2.16.0+
- Package: blast 2.16.0, build Dec 14 2024 23:05:40
-
-
-[Wed Aug 27 12:19:20 AM PDT 2025] Task 14 finished.

@@ -1,52 +1,0 @@
-[Wed Aug 27 05:11:36 AM UTC 2025] Running task 32 on 16 threads
-Command: cd-hit -i "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_100/sulfur_dis_c100.faa" -o "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_90/sulfur_dis_c90.faa" -c 0.90 -n 5 -M 61440 -T 16
-================================================================
-Program: CD-HIT, V4.8.1 (+OpenMP), Dec 13 2024, 22:16:14
-Command: cd-hit -i
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_100/sulfur_dis_c100.faa
-         -o
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_90/sulfur_dis_c90.faa
-         -c 0.90 -n 5 -M 61440 -T 16
-
-Started: Wed Aug 27 05:11:36 2025
-================================================================
-                            Output                              
-----------------------------------------------------------------
-total seq: 1260
-longest and shortest : 765 and 30
-Total letters: 619702
-Sequences have been sorted
-
-Approximated minimal memory consumption:
-Sequence        : 0M
-Buffer          : 16 X 16M = 258M
-Table           : 2 X 65M = 130M
-Miscellaneous   : 0M
-Total           : 390M
-
-Table limit with the given memory limit:
-Max number of representatives: 4000000
-Max number of word counting entries: 7631195593
-
-# comparing sequences from          0  to         70
----------- new table with       17 representatives
-# comparing sequences from         70  to        136
-................---------- new table with        6 representatives
-# comparing sequences from        136  to        198
-................17.5%19.4%20.2%21.2%22.2%23.6%24.8%26.3%27.6%28.9%30.2%31.4%32.5%33.7%35.1%36.3%37.7%39.0%40.3%41.6%42.9%44.1%45.4%47.0%48.5%50.4%51.3%52.5%54.3%55.6%57.0%58.3%59.6%61.3%62.9%64.3%66.0%67.1%68.3%70.0%71.2%72.5%74.0%75.8%77.3%78.6%79.6%80.8%81.8%83.2%84.7%86.0%87.4%89.1%90.6%92.3%93.9%95.4%96.7%---------- new table with        2 representatives
-# comparing sequences from        198  to        257
-37.5%40.5%41.8%43.1%44.4%45.6%49.3%53.6%54.8%56.5%58.1%59.8%61.1%62.8%64.5%66.0%67.5%69.1%70.5%72.1%73.7%75.4%76.8%78.7%80.2%81.9%83.5%85.0%86.3%88.3%90.0%91.5%93.3%94.6%96.4%99.0%---------- new table with        0 representatives
-# comparing sequences from        257  to        312
----------- new table with        0 representatives
-# comparing sequences from        312  to       1260
-.---------- new table with      201 representatives
-
-     1260  finished        226  clusters
-
-Approximated maximum memory consumption: 390M
-writing new database
-writing clustering information
-program completed !
-
-Total CPU time 1.45
-[Wed Aug 27 05:11:42 AM UTC 2025] Task 32 finished.

@@ -1,69 +1,0 @@
-[Wed Aug 27 05:30:46 AM UTC 2025] Node: calculon
-[Wed Aug 27 05:30:47 AM UTC 2025] Task 3 using 16 threads
-Command: cd-hit -i "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_80/assnitred_c80.faa" -o "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_70/assnitred_c70.faa" -c 0.70 -n 5 -M 61440 -T 16
-================================================================
-Program: CD-HIT, V4.8.1 (+OpenMP), Dec 13 2024, 22:16:14
-Command: cd-hit -i
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_80/assnitred_c80.faa
-         -o
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_70/assnitred_c70.faa
-         -c 0.70 -n 5 -M 61440 -T 16
-
-Started: Wed Aug 27 05:30:47 2025
-================================================================
-                            Output                              
-----------------------------------------------------------------
-total seq: 2065
-longest and shortest : 1847 and 40
-Total letters: 1260731
-Sequences have been sorted
-
-Approximated minimal memory consumption:
-Sequence        : 1M
-Buffer          : 16 X 16M = 262M
-Table           : 2 X 65M = 130M
-Miscellaneous   : 0M
-Total           : 395M
-
-Table limit with the given memory limit:
-Max number of representatives: 4000000
-Max number of word counting entries: 7630617721
-
-# comparing sequences from          0  to        114
----------- new table with       77 representatives
-# comparing sequences from        114  to        222
-..................---------- new table with       86 representatives
-# comparing sequences from        222  to        324
-.................---------- new table with       62 representatives
-# comparing sequences from        324  to        420
-..................---------- new table with       69 representatives
-# comparing sequences from        420  to        511
-..................---------- new table with       57 representatives
-# comparing sequences from        511  to        597
-.............---------- new table with       51 representatives
-# comparing sequences from        597  to        678
-................---------- new table with       51 representatives
-# comparing sequences from        678  to        755
-..................---------- new table with       52 representatives
-# comparing sequences from        755  to        827
-...............---------- new table with       39 representatives
-# comparing sequences from        827  to        895
-.............---------- new table with       40 representatives
-# comparing sequences from        895  to        960
-................---------- new table with       52 representatives
-# comparing sequences from        960  to       1021
-................---------- new table with       42 representatives
-# comparing sequences from       1021  to       1079
-...................---------- new table with       33 representatives
-# comparing sequences from       1079  to       2065
-................---------- new table with      670 representatives
-
-     2065  finished       1381  clusters
-
-Approximated maximum memory consumption: 396M
-writing new database
-writing clustering information
-program completed !
-
-Total CPU time 7.05
-[Wed Aug 27 05:30:54 AM UTC 2025] Task 3 finished.

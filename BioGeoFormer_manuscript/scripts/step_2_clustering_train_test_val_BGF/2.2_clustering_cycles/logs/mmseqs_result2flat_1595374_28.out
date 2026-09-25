@@ -1,8 +1,0 @@
-[Wed Sep  3 06:39:16 PM UTC 2025] Running task 28: mmseqs result2flat "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data/mmseqs_dbs/combined100_pyruvate_DB" "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data/mmseqs_dbs/combined100_pyruvate_DB" "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/mmseqs_cluster30/combined100_pyruvate_rep30" "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/mmseqs_cluster30/combined100_pyruvate_clusters_30.fasta"
-result2flat /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data/mmseqs_dbs/combined100_pyruvate_DB /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data/mmseqs_dbs/combined100_pyruvate_DB /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/mmseqs_cluster30/combined100_pyruvate_rep30 /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/mmseqs_cluster30/combined100_pyruvate_clusters_30.fasta 
-
-MMseqs Version: 	b804fbe384e6f6c9fe96322ec0e92d48bccd0a42
-Use fasta header	false
-Verbosity       	3
-
-Time for processing: 0h 0m 0s 383ms

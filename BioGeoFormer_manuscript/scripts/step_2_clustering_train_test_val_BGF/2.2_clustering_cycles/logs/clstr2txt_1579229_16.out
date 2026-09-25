@@ -1,4 +1,0 @@
-[Wed Aug 27 12:09:47 PM PDT 2025] Node: makaira.hpc.oregonstate.edu
-[Wed Aug 27 12:09:48 PM PDT 2025] Running task 16/330
-[Wed Aug 27 12:09:48 PM PDT 2025] Command: /local/cluster/cd-hit-v4.8.1-2019-0228/clstr2txt.pl "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_20_30/split_data_20_30_40/split_data_20_30_40_50/split_data_20_30_40_50_60/split_data_20_30_40_50_60_70/split_data_20_30_40_50_60_70_80/split_data_20_30_40_50_60_70_80_90/split_data_20_30_40_50_60_70_80_90_100/phosphotransferase_from20_30_40_50_60_70_80_90_100.clstr" > "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/output_tables/phosphotransferase_20.txt"
-[Wed Aug 27 12:09:57 PM PDT 2025] Done.

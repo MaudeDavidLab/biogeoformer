@@ -1,9 +1,0 @@
-[Wed Aug 27 06:21:11 AM UTC 2025] Host: calculon
-[Wed Aug 27 06:21:11 AM UTC 2025] Task 7 using 16 CPUs; mem=65536
-Command: /local/cluster/cd-hit-v4.8.1-2019-0228/psi-cd-hit/psi-cd-hit.pl -i "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_40/denitrification_c40.faa" -o "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_30/denitrification_c30.faa" -c 0.3 -para 4 -blp 4
-BLAST version:
-blastp: 2.16.0+
- Package: blast 2.16.0, build Dec 14 2024 23:05:40
-
-
-[Wed Aug 27 06:48:32 AM UTC 2025] Task 7 finished.

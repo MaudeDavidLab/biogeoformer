@@ -1,52 +1,0 @@
-[Wed Aug 27 04:49:43 AM UTC 2025] Running task 32 on 16 threads
-Command: cd-hit -i "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data/combined100_sulfur_dis.faa" -o "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_100/sulfur_dis_c100.faa" -c 1.00 -n 5 -M 61440 -T 16
-================================================================
-Program: CD-HIT, V4.8.1 (+OpenMP), Dec 13 2024, 22:16:14
-Command: cd-hit -i
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data/combined100_sulfur_dis.faa
-         -o
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_100/sulfur_dis_c100.faa
-         -c 1.00 -n 5 -M 61440 -T 16
-
-Started: Wed Aug 27 04:49:44 2025
-================================================================
-                            Output                              
-----------------------------------------------------------------
-total seq: 1260
-longest and shortest : 765 and 30
-Total letters: 619702
-Sequences have been sorted
-
-Approximated minimal memory consumption:
-Sequence        : 0M
-Buffer          : 16 X 16M = 258M
-Table           : 2 X 65M = 130M
-Miscellaneous   : 0M
-Total           : 390M
-
-Table limit with the given memory limit:
-Max number of representatives: 4000000
-Max number of word counting entries: 7631195593
-
-# comparing sequences from          0  to         70
----------- new table with       70 representatives
-# comparing sequences from         70  to        136
-................---------- new table with       66 representatives
-# comparing sequences from        136  to        198
-................---------- new table with       62 representatives
-# comparing sequences from        198  to        257
-....................---------- new table with       59 representatives
-# comparing sequences from        257  to        312
-..................---------- new table with       55 representatives
-# comparing sequences from        312  to       1260
-.....................---------- new table with      948 representatives
-
-     1260  finished       1260  clusters
-
-Approximated maximum memory consumption: 393M
-writing new database
-writing clustering information
-program completed !
-
-Total CPU time 2.04
-[Wed Aug 27 04:49:51 AM UTC 2025] Task 32 finished.

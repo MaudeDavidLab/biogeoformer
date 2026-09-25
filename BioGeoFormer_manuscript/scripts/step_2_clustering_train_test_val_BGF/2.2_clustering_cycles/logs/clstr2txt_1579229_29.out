@@ -1,4 +1,0 @@
-[Wed Aug 27 12:10:13 PM PDT 2025] Node: makaira.hpc.oregonstate.edu
-[Wed Aug 27 12:10:15 PM PDT 2025] Running task 29/330
-[Wed Aug 27 12:10:17 PM PDT 2025] Command: /local/cluster/cd-hit-v4.8.1-2019-0228/clstr2txt.pl "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_20_30/split_data_20_30_40/split_data_20_30_40_50/split_data_20_30_40_50_60/split_data_20_30_40_50_60_70/split_data_20_30_40_50_60_70_80/split_data_20_30_40_50_60_70_80_90/split_data_20_30_40_50_60_70_80_90_100/asssulred_from20_30_40_50_60_70_80_90_100.clstr" > "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/output_tables/asssulred_20.txt"
-[Wed Aug 27 12:10:59 PM PDT 2025] Done.

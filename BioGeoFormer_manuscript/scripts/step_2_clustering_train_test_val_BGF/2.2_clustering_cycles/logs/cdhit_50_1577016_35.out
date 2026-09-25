@@ -1,47 +1,0 @@
-[Wed Aug 27 05:48:53 AM UTC 2025] Node: calculon
-[Wed Aug 27 05:48:53 AM UTC 2025] Task 35 using 16 threads
-Command: cd-hit -i "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_60/sulred_c60.faa" -o "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_50/sulred_c50.faa" -c 0.50 -n 3 -M 61440 -T 16
-================================================================
-Program: CD-HIT, V4.8.1 (+OpenMP), Dec 13 2024, 22:16:14
-Command: cd-hit -i
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_60/sulred_c60.faa
-         -o
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_50/sulred_c50.faa
-         -c 0.50 -n 3 -M 61440 -T 16
-
-Started: Wed Aug 27 05:48:53 2025
-================================================================
-                            Output                              
-----------------------------------------------------------------
-total seq: 1085
-longest and shortest : 1399 and 33
-Total letters: 449122
-Sequences have been sorted
-
-Approximated minimal memory consumption:
-Sequence        : 0M
-Buffer          : 16 X 16M = 261M
-Table           : 2 X 0M = 0M
-Miscellaneous   : 0M
-Total           : 261M
-
-Table limit with the given memory limit:
-Max number of representatives: 4000000
-Max number of word counting entries: 7647253990
-
-# comparing sequences from          0  to         60
----------- new table with       35 representatives
-# comparing sequences from         60  to        116
-...................96.2%98.5%---------- new table with       40 representatives
-# comparing sequences from        116  to       1085
-.....................---------- new table with      525 representatives
-
-     1085  finished        600  clusters
-
-Approximated maximum memory consumption: 263M
-writing new database
-writing clustering information
-program completed !
-
-Total CPU time 8.43
-[Wed Aug 27 05:49:01 AM UTC 2025] Task 35 finished.

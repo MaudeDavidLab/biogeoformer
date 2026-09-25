@@ -1,4 +1,0 @@
-[Wed Aug 27 06:52:18 PM UTC 2025] Node: calculon
-[Wed Aug 27 06:52:19 PM UTC 2025] Running task 290/295
-[Wed Aug 27 06:52:20 PM UTC 2025] Command: /local/cluster/cd-hit-v4.8.1-2019-0228/clstr2txt.pl "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_100/sulfur_ox_c100.faa.clstr" > "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/output_tables/sulfur_ox_100.txt"
-[Wed Aug 27 06:52:28 PM UTC 2025] Done.

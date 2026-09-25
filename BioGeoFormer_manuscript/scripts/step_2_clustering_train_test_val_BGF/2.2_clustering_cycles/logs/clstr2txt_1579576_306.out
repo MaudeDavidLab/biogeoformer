@@ -1,3 +1,0 @@
-[Wed Aug 27 07:30:29 PM UTC 2025] Node: calculon
-[Wed Aug 27 07:30:30 PM UTC 2025] Running task 306/330
-[Wed Aug 27 07:30:30 PM UTC 2025] Command: /local/cluster/cd-hit-v4.8.1-2019-0228/clstr2txt.pl "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_100/cenmetpat,aom_c100.faa.clstr" > "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/output_tables/cenmetpat,aom_100.txt"

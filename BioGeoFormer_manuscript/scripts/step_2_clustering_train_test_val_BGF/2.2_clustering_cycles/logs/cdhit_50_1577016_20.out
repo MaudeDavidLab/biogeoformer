@@ -1,59 +1,0 @@
-[Tue Aug 26 10:48:13 PM PDT 2025] Node: makaira.hpc.oregonstate.edu
-[Tue Aug 26 10:48:13 PM PDT 2025] Task 20 using 16 threads
-Command: cd-hit -i "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_60/oxid_met_c1_c60.faa" -o "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_50/oxid_met_c1_c50.faa" -c 0.50 -n 3 -M 61440 -T 16
-================================================================
-Program: CD-HIT, V4.8.1 (+OpenMP), Dec 13 2024, 22:16:14
-Command: cd-hit -i
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_60/oxid_met_c1_c60.faa
-         -o
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_50/oxid_met_c1_c50.faa
-         -c 0.50 -n 3 -M 61440 -T 16
-
-Started: Tue Aug 26 22:48:14 2025
-================================================================
-                            Output                              
-----------------------------------------------------------------
-total seq: 1552
-longest and shortest : 941 and 28
-Total letters: 376366
-Sequences have been sorted
-
-Approximated minimal memory consumption:
-Sequence        : 0M
-Buffer          : 16 X 16M = 259M
-Table           : 2 X 0M = 0M
-Miscellaneous   : 0M
-Total           : 260M
-
-Table limit with the given memory limit:
-Max number of representatives: 4000000
-Max number of word counting entries: 7647436968
-
-# comparing sequences from          0  to         86
----------- new table with       54 representatives
-# comparing sequences from         86  to        167
-................76.9%77.9%78.8%79.2%79.9%81.2%82.5%83.2%84.5%85.4%85.8%87.5%89.0%89.6%90.6%90.9%91.9%92.1%93.2%94.1%95.3%96.5%97.4%98.9%99.8%---------- new table with       52 representatives
-# comparing sequences from        167  to        243
-..................36.5%37.8%38.9%39.9%40.1%41.3%42.0%43.3%43.4%45.1%46.3%47.1%48.0%49.5%51.2%53.2%53.7%55.1%56.0%57.5%57.9%58.9%60.6%63.1%63.7%65.5%67.1%67.5%68.3%69.5%70.3%70.7%72.7%73.0%74.1%75.3%76.5%78.1%78.9%79.8%80.7%81.5%82.7%83.8%84.3%85.1%86.5%88.1%88.5%89.7%90.7%91.3%92.5%93.8%95.6%97.0%98.8%99.9%---------- new table with       28 representatives
-# comparing sequences from        243  to        315
-.....35.2%36.5%37.8%39.6%42.4%43.9%44.7%46.8%48.0%49.5%50.3%52.6%53.9%56.3%57.1%59.1%59.5%60.8%61.1%62.0%64.0%65.1%65.9%66.9%67.7%69.0%70.5%71.6%72.0%72.3%73.3%74.4%75.6%76.2%77.0%78.5%79.6%80.1%81.8%83.0%84.1%85.2%85.5%87.3%87.8%90.0%91.2%91.9%92.4%93.2%93.6%95.6%96.0%96.6%97.6%98.6%99.0%---------- new table with       15 representatives
-# comparing sequences from        315  to        383
-.........---------- new table with       36 representatives
-# comparing sequences from        383  to        447
-........81.1%81.8%83.1%85.2%85.6%86.0%86.5%87.8%88.7%89.6%90.7%91.5%92.6%93.9%95.7%97.3%97.6%98.4%99.2%---------- new table with       21 representatives
-# comparing sequences from        447  to        508
-........55.2%56.4%57.5%57.8%60.8%61.3%61.7%62.7%63.9%64.9%65.5%67.8%68.4%68.7%69.3%71.3%71.5%74.1%76.2%76.9%78.2%78.6%80.7%81.1%81.6%83.1%83.3%84.5%85.2%85.8%87.1%88.7%89.9%90.5%91.8%92.4%93.6%94.1%95.9%96.5%98.0%99.0%---------- new table with       14 representatives
-# comparing sequences from        508  to        566
-......67.9%69.8%72.2%73.5%75.2%76.7%77.1%77.8%78.2%79.1%79.4%80.0%80.2%81.7%82.6%83.4%83.8%84.3%85.5%86.8%87.4%87.8%88.3%88.5%90.3%90.5%91.4%91.7%93.8%94.6%96.9%97.3%99.6%---------- new table with       16 representatives
-# comparing sequences from        566  to       1552
-..................---------- new table with      544 representatives
-
-     1552  finished        780  clusters
-
-Approximated maximum memory consumption: 261M
-writing new database
-writing clustering information
-program completed !
-
-Total CPU time 5.87
-[Tue Aug 26 10:48:18 PM PDT 2025] Task 20 finished.

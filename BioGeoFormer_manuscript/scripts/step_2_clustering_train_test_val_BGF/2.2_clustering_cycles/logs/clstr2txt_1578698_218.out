@@ -1,4 +1,0 @@
-[Wed Aug 27 11:51:56 AM PDT 2025] Node: makaira.hpc.oregonstate.edu
-[Wed Aug 27 11:51:58 AM PDT 2025] Running task 218/295
-[Wed Aug 27 11:51:59 AM PDT 2025] Command: /local/cluster/cd-hit-v4.8.1-2019-0228/clstr2txt.pl "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_80_90/split_data_80_90_100/purine_from80_90_100.clstr" > "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/output_tables/purine_80.txt"
-[Wed Aug 27 11:53:48 AM PDT 2025] Done.

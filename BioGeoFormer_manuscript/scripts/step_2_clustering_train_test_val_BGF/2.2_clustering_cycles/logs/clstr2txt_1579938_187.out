@@ -1,4 +1,0 @@
-[Wed Aug 27 08:00:46 PM UTC 2025] Node: calculon
-[Wed Aug 27 08:00:47 PM UTC 2025] Running task 187/330
-[Wed Aug 27 08:00:48 PM UTC 2025] Command: /local/cluster/cd-hit-v4.8.1-2019-0228/clstr2txt.pl "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_70_80/split_data_70_80_90/split_data_70_80_90_100/rump_from70_80_90_100.clstr" > "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/output_tables/rump_70.txt"
-[Wed Aug 27 08:01:06 PM UTC 2025] Done.

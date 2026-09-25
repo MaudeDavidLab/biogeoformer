@@ -1,4 +1,0 @@
-[Wed Aug 27 08:01:12 PM UTC 2025] Node: calculon
-[Wed Aug 27 08:01:13 PM UTC 2025] Running task 210/330
-[Wed Aug 27 08:01:14 PM UTC 2025] Command: /local/cluster/cd-hit-v4.8.1-2019-0228/clstr2txt.pl "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_70_80/split_data_70_80_90/split_data_70_80_90_100/pyruvate_from70_80_90_100.clstr" > "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/output_tables/pyruvate_70.txt"
-[Wed Aug 27 08:01:28 PM UTC 2025] Done.

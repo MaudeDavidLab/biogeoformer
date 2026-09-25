@@ -1,0 +1,2 @@
+n_orfs,n_hits,median_pid,min_pid,n_hits_ge50,n_no_hit,n_no_hit_bgf_annotated,pct_no_hit_bgf_annotated,n_no_hit_bgf_annotated_conf_ge_0.5,pct_no_hit_bgf_annotated_conf_ge_0.5
+6282956,1296113,38.7,17.2,338349,4986843,285894,5.7,741906,14.9

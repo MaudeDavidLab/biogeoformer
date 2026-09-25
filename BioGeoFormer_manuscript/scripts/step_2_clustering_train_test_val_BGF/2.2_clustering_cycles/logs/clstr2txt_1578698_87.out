@@ -1,4 +1,0 @@
-[Wed Aug 27 11:48:48 AM PDT 2025] Node: makaira.hpc.oregonstate.edu
-[Wed Aug 27 11:48:52 AM PDT 2025] Running task 87/295
-[Wed Aug 27 11:48:55 AM PDT 2025] Command: /local/cluster/cd-hit-v4.8.1-2019-0228/clstr2txt.pl "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_50_60/split_data_50_60_70/split_data_50_60_70_80/split_data_50_60_70_80_90/split_data_50_60_70_80_90_100/nitfix_from50_60_70_80_90_100.clstr" > "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/output_tables/nitfix_50.txt"
-[Wed Aug 27 11:49:17 AM PDT 2025] Done.

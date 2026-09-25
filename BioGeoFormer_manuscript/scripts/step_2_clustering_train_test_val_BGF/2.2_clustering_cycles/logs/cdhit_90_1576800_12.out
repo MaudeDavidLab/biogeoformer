@@ -1,184 +1,0 @@
-[Wed Aug 27 04:59:34 AM UTC 2025] Running task 12 on 16 threads
-Command: cd-hit -i "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_100/nitfix_c100.faa" -o "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_90/nitfix_c100_c90.faa" -c 0.90 -n 5 -M 61440 -T 16
-================================================================
-Program: CD-HIT, V4.8.1 (+OpenMP), Dec 13 2024, 22:16:14
-Command: cd-hit -i
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_100/nitfix_c100.faa
-         -o
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_90/nitfix_c100_c90.faa
-         -c 0.90 -n 5 -M 61440 -T 16
-
-Started: Wed Aug 27 04:59:34 2025
-================================================================
-                            Output                              
-----------------------------------------------------------------
-total seq: 18161
-longest and shortest : 956 and 19
-Total letters: 3431488
-Sequences have been sorted
-
-Approximated minimal memory consumption:
-Sequence        : 5M
-Buffer          : 16 X 16M = 262M
-Table           : 2 X 65M = 131M
-Miscellaneous   : 0M
-Total           : 399M
-
-Table limit with the given memory limit:
-Max number of representatives: 4000000
-Max number of word counting entries: 7630001365
-
-# comparing sequences from          0  to       1008
-.---------- new table with      539 representatives
-# comparing sequences from       1008  to       1960
-....................----------    728 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1232  to       2172
-.................----------    754 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1418  to       2348
-.................----------    702 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1646  to       2563
-....................----------    772 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1791  to       2700
-....................----------    771 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       1929  to       2830
-.....................----------    742 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       2088  to       2980
-.................----------    741 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       2239  to       3123
-.................----------    689 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       2434  to       3307
-...................----------    526 remaining sequences to the next cycle
----------- new table with      116 representatives
-# comparing sequences from       2781  to       3635
-................----------    398 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       3237  to       4066
-................98.8%----------    409 remaining sequences to the next cycle
----------- new table with      131 representatives
-# comparing sequences from       3657  to       4462
-.............----------    548 remaining sequences to the next cycle
----------- new table with      104 representatives
-# comparing sequences from       3914  to       4705
-.............66.3%---------- new table with      248 representatives
-# comparing sequences from       4705  to       5452
-...38.9%39.0%39.1%39.3%39.4%39.6%40.1%41.0%41.1%41.2%42.0%42.2%42.4%42.7%43.1%43.2%43.4%43.5%43.6%43.9%44.0%44.2%44.4%45.3%45.6%45.8%46.5%48.4%48.6%49.1%49.6%49.8%50.2%50.8%51.5%52.2%54.9%55.4%56.2%57.2%57.3%57.9%59.6%60.3%62.3%62.8%62.9%64.7%65.2%65.8%66.1%68.7%68.8%69.0%69.1%71.8%72.6%73.3%73.5%73.8%74.7%74.9%75.5%76.4%76.9%77.1%77.2%77.5%78.0%78.5%78.8%79.1%79.6%80.1%80.5%80.6%80.7%81.2%81.5%82.3%90.1%90.7%91.9%92.5%92.7%92.8%93.0%93.4%94.4%94.5%94.8%96.4%96.5%97.1%99.0%99.2%99.3%99.4%99.8%---------- new table with       65 representatives
-# comparing sequences from       5452  to       6158
-...........----------    279 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       5879  to       6561
-..........----------    325 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       6236  to       6898
-.....----------     42 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       6856  to       7484
-..........----------    249 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       7235  to       7842
-....----------    124 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from       7718  to       8298
-...---------- new table with       97 representatives
-# comparing sequences from       8298  to       8845
-...77.2%77.3%77.6%78.5%78.6%79.2%79.6%80.1%80.4%80.5%80.7%81.0%81.6%82.2%86.3%91.3%92.2%92.3%92.5%92.6%92.8%92.9%93.0%93.2%94.4%94.7%94.9%95.1%95.7%96.2%96.3%96.5%96.6%96.9%97.1%97.2%97.6%97.8%98.2%98.4%99.0%99.2%99.4%---------- new table with       33 representatives
-# comparing sequences from       8845  to       9362
-....75.8%77.0%77.4%77.8%77.9%78.5%79.0%79.5%80.1%80.3%80.6%80.9%81.0%81.3%81.9%82.2%83.9%85.6%87.7%89.4%91.3%92.1%93.1%94.8%95.9%96.4%96.6%96.8%98.9%99.2%99.7%99.9%100.0%---------- new table with       19 representatives
-# comparing sequences from       9362  to       9850
-...75.8%77.4%77.7%78.5%78.8%78.9%79.0%79.4%79.8%80.0%80.2%80.5%80.7%81.3%81.5%81.9%82.1%82.6%82.9%83.4%84.1%85.3%88.6%89.4%91.4%91.6%91.8%92.1%92.4%92.5%92.7%92.8%93.0%94.5%94.8%95.1%95.7%95.8%95.9%96.3%96.5%99.1%---------- new table with       21 representatives
-# comparing sequences from       9850  to      10311
-..---------- new table with       19 representatives
-# comparing sequences from      10311  to      10747
-.87.9%91.3%91.5%91.6%92.0%92.2%92.4%92.5%92.9%93.0%93.1%94.4%94.8%95.1%95.8%96.3%96.6%96.8%97.0%97.4%97.6%97.7%98.3%98.8%99.0%100.0%---------- new table with       23 representatives
-# comparing sequences from      10747  to      11158
-...97.6%98.8%99.0%99.1%99.3%99.8%---------- new table with       19 representatives
-# comparing sequences from      11158  to      11547
-........----------     15 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from      11532  to      11900
-.....---------- new table with       81 representatives
-# comparing sequences from      11900  to      12247
-.---------- new table with       29 representatives
-# comparing sequences from      12247  to      12575
-.......---------- new table with       54 representatives
-# comparing sequences from      12575  to      12885
-...---------- new table with       68 representatives
-# comparing sequences from      12885  to      13178
-..---------- new table with       25 representatives
-# comparing sequences from      13178  to      13454
-.......---------- new table with       36 representatives
-# comparing sequences from      13454  to      13715
-...92.0%92.8%92.9%93.1%94.5%96.0%96.6%97.0%97.4%97.7%98.2%98.8%99.2%---------- new table with       18 representatives
-# comparing sequences from      13715  to      13962
----------- new table with       17 representatives
-# comparing sequences from      13962  to      14195
-...83.3%85.5%88.6%91.4%91.6%91.8%92.2%92.5%92.7%92.8%93.1%94.6%94.9%95.3%95.8%96.3%96.6%96.8%97.4%97.6%97.7%98.3%98.7%99.0%99.2%99.5%99.8%99.9%---------- new table with       12 representatives
-# comparing sequences from      14195  to      14415
-...---------- new table with       14 representatives
-# comparing sequences from      14415  to      14623
-.91.8%92.5%92.7%92.8%93.0%94.6%94.9%95.7%95.9%96.4%96.7%96.8%97.0%97.3%97.5%98.8%99.2%99.3%99.6%99.9%---------- new table with        8 representatives
-# comparing sequences from      14623  to      14819
-.---------- new table with       11 representatives
-# comparing sequences from      14819  to      15004
-...---------- new table with       17 representatives
-# comparing sequences from      15004  to      15179
-.---------- new table with       14 representatives
-# comparing sequences from      15179  to      15344
-.91.5%92.2%92.4%92.5%92.8%92.9%94.6%95.1%95.8%96.4%96.9%97.6%98.3%99.0%99.3%99.7%100.0%---------- new table with        3 representatives
-# comparing sequences from      15344  to      15500
-.91.4%92.2%92.4%92.5%92.7%92.9%93.2%94.6%95.1%95.9%96.6%97.0%97.4%97.7%99.9%---------- new table with        3 representatives
-# comparing sequences from      15500  to      15647
-.91.3%92.2%92.4%92.5%92.7%92.9%93.1%94.8%95.8%96.5%96.9%97.5%97.7%98.3%98.9%99.3%99.7%100.0%---------- new table with        1 representatives
-# comparing sequences from      15647  to      15786
-91.4%92.3%92.4%92.7%92.9%93.4%94.6%95.1%95.9%96.6%97.0%97.5%97.7%98.2%99.2%99.7%---------- new table with        0 representatives
-# comparing sequences from      15786  to      15917
----------- new table with        1 representatives
-# comparing sequences from      15917  to      16041
-91.4%92.3%92.5%92.7%92.9%94.7%95.9%96.8%97.3%97.7%98.7%99.2%99.8%---------- new table with        1 representatives
-# comparing sequences from      16041  to      16158
-91.5%92.2%92.4%92.7%92.9%94.8%95.4%95.9%96.8%97.3%97.7%98.9%99.6%99.9%---------- new table with        0 representatives
-# comparing sequences from      16158  to      16269
----------- new table with        2 representatives
-# comparing sequences from      16269  to      16374
-91.5%92.2%92.4%92.5%92.8%93.0%94.8%95.9%96.5%96.9%97.5%98.4%98.9%99.3%99.7%---------- new table with        1 representatives
-# comparing sequences from      16374  to      16473
-90.9%92.3%92.4%92.5%92.8%93.0%94.7%95.8%96.4%96.8%97.5%98.4%98.9%99.3%99.8%---------- new table with        0 representatives
-# comparing sequences from      16473  to      16566
----------- new table with        3 representatives
-# comparing sequences from      16566  to      16654
-........---------- new table with       34 representatives
-# comparing sequences from      16654  to      16737
-...---------- new table with       13 representatives
-# comparing sequences from      16737  to      16816
-...........---------- new table with       34 representatives
-# comparing sequences from      16816  to      16890
-.......---------- new table with       26 representatives
-# comparing sequences from      16890  to      16960
-...---------- new table with       13 representatives
-# comparing sequences from      16960  to      17026
-94.4%95.9%96.6%96.9%97.5%98.4%98.9%99.3%99.8%---------- new table with        0 representatives
-# comparing sequences from      17026  to      17089
----------- new table with        0 representatives
-# comparing sequences from      17089  to      17148
----------- new table with        5 representatives
-# comparing sequences from      17148  to      17204
-...---------- new table with        9 representatives
-# comparing sequences from      17204  to      18161
-.....---------- new table with      186 representatives
-
-    18161  finished       3673  clusters
-
-Approximated maximum memory consumption: 402M
-writing new database
-writing clustering information
-program completed !
-
-Total CPU time 18.92
-[Wed Aug 27 04:59:44 AM UTC 2025] Task 12 finished.

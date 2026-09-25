@@ -1,4 +1,0 @@
-[Wed Aug 27 11:48:58 AM PDT 2025] Node: makaira.hpc.oregonstate.edu
-[Wed Aug 27 11:49:01 AM PDT 2025] Running task 91/295
-[Wed Aug 27 11:49:03 AM PDT 2025] Command: /local/cluster/cd-hit-v4.8.1-2019-0228/clstr2txt.pl "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_50_60/split_data_50_60_70/split_data_50_60_70_80/split_data_50_60_70_80_90/split_data_50_60_70_80_90_100/sulfur_ox_from50_60_70_80_90_100.clstr" > "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/output_tables/sulfur_ox_50.txt"
-[Wed Aug 27 11:49:23 AM PDT 2025] Done.

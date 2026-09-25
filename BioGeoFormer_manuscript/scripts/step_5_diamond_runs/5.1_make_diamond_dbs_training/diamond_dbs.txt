@@ -1,9 +1,0 @@
-diamond makedb --in /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/train_fasta_aug26/final_selected_train_100.fasta -d /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/diamond_dbs/final_selected_train_100_db
-diamond makedb --in /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/train_fasta_aug26/final_selected_train_20.fasta -d /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/diamond_dbs/final_selected_train_20_db
-diamond makedb --in /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/train_fasta_aug26/final_selected_train_30.fasta -d /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/diamond_dbs/final_selected_train_30_db
-diamond makedb --in /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/train_fasta_aug26/final_selected_train_40.fasta -d /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/diamond_dbs/final_selected_train_40_db
-diamond makedb --in /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/train_fasta_aug26/final_selected_train_50.fasta -d /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/diamond_dbs/final_selected_train_50_db
-diamond makedb --in /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/train_fasta_aug26/final_selected_train_60.fasta -d /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/diamond_dbs/final_selected_train_60_db
-diamond makedb --in /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/train_fasta_aug26/final_selected_train_70.fasta -d /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/diamond_dbs/final_selected_train_70_db
-diamond makedb --in /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/train_fasta_aug26/final_selected_train_80.fasta -d /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/diamond_dbs/final_selected_train_80_db
-diamond makedb --in /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/train_fasta_aug26/final_selected_train_90.fasta -d /nfs5/MICRO/Thurber_Lab/jacob/diamond_aug28/diamond_dbs/final_selected_train_90_db

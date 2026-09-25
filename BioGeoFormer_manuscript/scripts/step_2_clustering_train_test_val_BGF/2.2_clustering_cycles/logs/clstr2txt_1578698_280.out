@@ -1,4 +1,0 @@
-[Wed Aug 27 06:52:13 PM UTC 2025] Node: microbiome
-[Wed Aug 27 06:52:15 PM UTC 2025] Running task 280/295
-[Wed Aug 27 06:52:16 PM UTC 2025] Command: /local/cluster/cd-hit-v4.8.1-2019-0228/clstr2txt.pl "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_100/oxid_formate_c100.faa.clstr" > "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/output_tables/oxid_formate_100.txt"
-[Wed Aug 27 06:52:27 PM UTC 2025] Done.

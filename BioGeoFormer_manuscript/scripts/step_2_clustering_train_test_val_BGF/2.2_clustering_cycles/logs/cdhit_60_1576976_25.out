@@ -1,79 +1,0 @@
-[Tue Aug 26 10:38:54 PM PDT 2025] Node: makaira.hpc.oregonstate.edu
-[Tue Aug 26 10:38:54 PM PDT 2025] Task 25 using 16 threads
-Command: cd-hit -i "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_70/phosphotransferase_c70.faa" -o "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_60/phosphotransferase_c60.faa" -c 0.60 -n 4 -M 61440 -T 16
-================================================================
-Program: CD-HIT, V4.8.1 (+OpenMP), Dec 13 2024, 22:16:14
-Command: cd-hit -i
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_70/phosphotransferase_c70.faa
-         -o
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_60/phosphotransferase_c60.faa
-         -c 0.60 -n 4 -M 61440 -T 16
-
-Started: Tue Aug 26 22:38:54 2025
-================================================================
-                            Output                              
-----------------------------------------------------------------
-total seq: 2708
-longest and shortest : 1318 and 43
-Total letters: 809766
-Sequences have been sorted
-
-Approximated minimal memory consumption:
-Sequence        : 1M
-Buffer          : 16 X 16M = 261M
-Table           : 2 X 3M = 6M
-Miscellaneous   : 0M
-Total           : 268M
-
-Table limit with the given memory limit:
-Max number of representatives: 4000000
-Max number of word counting entries: 7646427943
-
-# comparing sequences from          0  to        150
----------- new table with       89 representatives
-# comparing sequences from        150  to        292
-..................62.3%65.8%66.4%67.0%68.3%68.6%69.8%70.2%70.6%70.8%71.3%71.8%72.1%74.4%74.7%76.8%76.9%77.5%78.2%78.4%78.8%79.3%79.9%81.5%82.0%84.2%84.3%84.4%84.6%85.5%88.1%88.8%89.3%89.6%90.0%91.4%93.1%93.4%93.8%93.9%94.4%94.6%95.1%95.2%95.5%95.6%96.2%96.3%97.0%98.4%98.9%99.0%99.5%99.6%---------- new table with      106 representatives
-# comparing sequences from        292  to        426
-...................---------- new table with       79 representatives
-# comparing sequences from        426  to        552
-..............---------- new table with       58 representatives
-# comparing sequences from        552  to        671
-...........---------- new table with       68 representatives
-# comparing sequences from        671  to        784
-............---------- new table with       47 representatives
-# comparing sequences from        784  to        890
-.............---------- new table with       50 representatives
-# comparing sequences from        890  to        991
-..........---------- new table with       41 representatives
-# comparing sequences from        991  to       1086
-..............---------- new table with       61 representatives
-# comparing sequences from       1086  to       1176
-...............85.5%88.8%89.2%90.1%90.3%90.4%91.0%91.3%91.6%94.8%94.9%95.1%95.2%95.7%96.0%96.2%96.5%97.6%97.7%98.3%98.6%98.8%99.0%99.3%99.5%99.7%---------- new table with       69 representatives
-# comparing sequences from       1176  to       1261
-.................78.4%79.3%80.3%82.0%82.7%84.2%84.9%85.2%85.8%85.9%86.9%87.4%87.8%88.1%91.1%91.3%91.9%92.1%93.8%94.1%94.9%95.6%95.9%97.3%98.1%99.2%99.7%---------- new table with       56 representatives
-# comparing sequences from       1261  to       1341
-............73.3%74.4%76.8%78.0%78.3%78.5%79.0%79.2%79.4%79.5%79.8%80.3%80.5%80.9%82.1%82.5%84.4%85.1%85.9%86.2%86.6%87.9%88.4%89.8%90.9%91.0%91.2%91.9%92.2%92.6%92.7%93.1%93.3%93.5%94.7%94.8%95.6%96.2%97.1%97.5%98.6%98.9%99.5%---------- new table with       55 representatives
-# comparing sequences from       1341  to       1416
-.............72.5%73.5%73.7%74.2%75.3%75.4%75.6%76.4%76.5%76.7%77.2%77.4%77.6%78.6%79.4%81.2%81.5%83.2%84.9%85.5%86.9%87.0%87.2%87.5%87.7%87.8%88.6%88.7%89.3%89.8%91.1%91.7%94.0%94.5%96.1%97.0%97.1%97.6%98.1%98.4%98.6%98.9%99.6%---------- new table with       41 representatives
-# comparing sequences from       1416  to       1487
-.................83.2%85.3%86.3%86.4%86.6%86.7%89.7%92.3%92.4%96.2%96.6%97.1%97.3%97.5%97.7%98.5%98.8%99.6%---------- new table with       46 representatives
-# comparing sequences from       1487  to       1554
-...........75.4%75.9%76.4%76.6%77.7%78.2%78.6%79.9%81.0%82.1%82.4%82.5%84.4%84.6%85.2%85.7%86.7%89.5%91.0%91.4%92.4%92.8%93.4%94.2%94.4%95.1%95.6%96.2%96.9%99.3%---------- new table with       44 representatives
-# comparing sequences from       1554  to       1618
-............85.0%86.9%88.2%88.3%89.9%91.7%93.0%93.3%93.7%93.8%95.1%95.2%95.4%96.6%96.8%97.5%97.7%97.8%98.0%98.2%98.4%98.5%98.8%99.0%99.2%99.3%---------- new table with       46 representatives
-# comparing sequences from       1618  to       1678
-.............88.7%90.5%91.1%91.6%92.1%93.4%95.5%95.8%96.0%96.2%97.6%98.5%98.7%99.2%99.7%---------- new table with       43 representatives
-# comparing sequences from       1678  to       1735
-........73.2%76.2%76.4%76.5%77.6%79.5%80.8%81.4%82.8%83.1%83.5%84.9%85.3%86.3%87.0%87.4%87.8%88.0%88.4%90.0%91.8%92.3%92.6%93.0%93.3%93.8%95.6%96.1%96.4%97.0%97.8%98.2%98.6%98.8%---------- new table with       28 representatives
-# comparing sequences from       1735  to       2708
-................---------- new table with      497 representatives
-
-     2708  finished       1524  clusters
-
-Approximated maximum memory consumption: 269M
-writing new database
-writing clustering information
-program completed !
-
-Total CPU time 13.39
-[Tue Aug 26 10:39:00 PM PDT 2025] Task 25 finished.

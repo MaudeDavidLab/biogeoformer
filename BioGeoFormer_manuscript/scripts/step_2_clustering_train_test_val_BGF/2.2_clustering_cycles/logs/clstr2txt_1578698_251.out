@@ -1,4 +1,0 @@
-[Wed Aug 27 06:51:32 PM UTC 2025] Node: calculon
-[Wed Aug 27 06:51:33 PM UTC 2025] Running task 251/295
-[Wed Aug 27 06:51:34 PM UTC 2025] Command: /local/cluster/cd-hit-v4.8.1-2019-0228/clstr2txt.pl "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_90_100/oxid_formaldehyde_from90_100.clstr" > "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/output_tables/oxid_formaldehyde_90.txt"
-[Wed Aug 27 06:51:45 PM UTC 2025] Done.

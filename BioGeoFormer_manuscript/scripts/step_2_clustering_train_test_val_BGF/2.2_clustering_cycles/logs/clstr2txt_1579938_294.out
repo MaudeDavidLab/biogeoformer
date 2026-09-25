@@ -1,4 +1,0 @@
-[Wed Aug 27 08:02:47 PM UTC 2025] Node: calculon
-[Wed Aug 27 08:02:48 PM UTC 2025] Running task 294/330
-[Wed Aug 27 08:02:49 PM UTC 2025] Command: /local/cluster/cd-hit-v4.8.1-2019-0228/clstr2txt.pl "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_100/denitrification_c100.faa.clstr" > "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/output_tables/denitrification_100.txt"
-[Wed Aug 27 08:02:58 PM UTC 2025] Done.

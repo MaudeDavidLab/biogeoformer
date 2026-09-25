@@ -1,0 +1,3 @@
+Optimal T: 1.2138
+Before Temp - NLL: 3.375, ECE: 0.267
+After Temp  - NLL: 3.170, ECE: 0.186

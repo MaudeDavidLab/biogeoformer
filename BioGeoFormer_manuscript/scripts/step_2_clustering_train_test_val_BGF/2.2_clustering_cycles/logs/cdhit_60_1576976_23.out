@@ -1,53 +1,0 @@
-[Tue Aug 26 10:38:48 PM PDT 2025] Node: makaira.hpc.oregonstate.edu
-[Tue Aug 26 10:38:49 PM PDT 2025] Task 23 using 16 threads
-Command: cd-hit -i "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_70/phos_other_c70.faa" -o "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_60/phos_other_c60.faa" -c 0.60 -n 4 -M 61440 -T 16
-================================================================
-Program: CD-HIT, V4.8.1 (+OpenMP), Dec 13 2024, 22:16:14
-Command: cd-hit -i
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_70/phos_other_c70.faa
-         -o
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_60/phos_other_c60.faa
-         -c 0.60 -n 4 -M 61440 -T 16
-
-Started: Tue Aug 26 22:38:49 2025
-================================================================
-                            Output                              
-----------------------------------------------------------------
-total seq: 1326
-longest and shortest : 744 and 40
-Total letters: 427235
-Sequences have been sorted
-
-Approximated minimal memory consumption:
-Sequence        : 0M
-Buffer          : 16 X 16M = 258M
-Table           : 2 X 3M = 6M
-Miscellaneous   : 0M
-Total           : 265M
-
-Table limit with the given memory limit:
-Max number of representatives: 4000000
-Max number of word counting entries: 7646783834
-
-# comparing sequences from          0  to         73
----------- new table with       48 representatives
-# comparing sequences from         73  to        142
-.................28.4%30.0%31.5%32.4%34.5%35.4%37.3%38.9%40.7%42.2%42.8%44.6%45.8%47.3%47.7%48.9%50.5%51.5%52.9%54.5%55.3%57.2%58.9%60.3%61.2%62.2%63.6%64.9%66.4%68.2%69.3%70.9%72.3%73.0%73.8%75.7%79.0%79.1%84.9%---------- new table with       33 representatives
-# comparing sequences from        142  to        207
-.......35.0%37.1%39.4%40.0%41.8%43.1%44.6%46.0%46.2%47.8%49.4%51.5%52.9%55.1%55.9%57.2%58.7%60.6%62.2%63.6%64.9%67.0%68.0%69.3%71.1%72.9%74.7%75.0%77.6%77.8%77.9%85.6%89.6%89.9%90.2%90.5%90.7%90.9%91.2%91.6%91.9%92.2%92.5%92.9%93.3%93.7%94.9%95.2%95.4%95.8%96.1%96.3%96.6%97.0%97.2%98.5%98.6%98.9%99.2%99.4%99.6%---------- new table with       26 representatives
-# comparing sequences from        207  to        269
-.......41.4%42.8%44.9%47.2%48.7%50.3%52.6%53.5%55.4%56.9%58.3%60.2%61.9%63.4%65.1%67.0%67.6%68.1%70.0%71.6%73.5%74.5%74.7%75.0%75.3%75.6%76.1%81.9%82.1%82.4%92.2%92.7%93.1%93.7%94.1%94.5%94.9%95.2%95.6%95.9%96.3%96.6%97.3%98.0%98.3%98.7%99.0%99.3%99.6%---------- new table with       25 representatives
-# comparing sequences from        269  to        327
-............55.4%57.1%59.0%60.3%62.3%63.6%66.0%68.0%70.0%71.6%73.7%77.4%84.5%84.6%84.8%87.9%---------- new table with       27 representatives
-# comparing sequences from        327  to       1326
-..............---------- new table with      451 representatives
-
-     1326  finished        610  clusters
-
-Approximated maximum memory consumption: 266M
-writing new database
-writing clustering information
-program completed !
-
-Total CPU time 15.74
-[Tue Aug 26 10:38:56 PM PDT 2025] Task 23 finished.

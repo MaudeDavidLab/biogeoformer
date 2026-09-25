@@ -1,4 +1,0 @@
-srun: error: timeout waiting for task launch, started 0 of 1 tasks
-srun: StepId=1592793.0 aborted before step completely launched.
-srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
-srun: error: Timed out waiting for job step to complete

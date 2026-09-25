@@ -1,4 +1,0 @@
-[Wed Aug 27 11:49:59 AM PDT 2025] Node: makaira.hpc.oregonstate.edu
-[Wed Aug 27 11:50:01 AM PDT 2025] Running task 134/295
-[Wed Aug 27 11:50:03 AM PDT 2025] Command: /local/cluster/cd-hit-v4.8.1-2019-0228/clstr2txt.pl "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_60_70/split_data_60_70_80/split_data_60_70_80_90/split_data_60_70_80_90_100/pyruvate_from60_70_80_90_100.clstr" > "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/output_tables/pyruvate_60.txt"
-[Wed Aug 27 11:50:42 AM PDT 2025] Done.

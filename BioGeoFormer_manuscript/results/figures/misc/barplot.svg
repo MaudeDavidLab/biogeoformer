@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='648.00pt' height='360.00pt' viewBox='0 0 648.00 360.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2NDguMDB8MC4wMHwzNjAuMDA='>
+    <rect x='0.00' y='0.00' width='648.00' height='360.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2NDguMDB8MC4wMHwzNjAuMDA=)'>
+<rect x='0.00' y='0.00' width='648.00' height='360.00' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNzQuMTV8NjQyLjUyfDI1Ljc4fDMxOS4yOA=='>
+    <rect x='74.15' y='25.78' width='568.37' height='293.49' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNzQuMTV8NjQyLjUyfDI1Ljc4fDMxOS4yOA==)'>
+<rect x='99.98' y='176.02' width='516.70' height='62.89' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #333333; fill-opacity: 0.90;' />
+<rect x='99.98' y='106.14' width='207.26' height='62.89' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #333333; fill-opacity: 0.90;' />
+<rect x='99.98' y='36.27' width='479.50' height='62.89' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #333333; fill-opacity: 0.90;' />
+<rect x='99.98' y='245.90' width='126.35' height='62.89' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #333333; fill-opacity: 0.90;' />
+</g>
+<g clip-path='url(#cpMC4wMHw2NDguMDB8MC4wMHwzNjAuMDA=)'>
+<text x='69.22' y='281.65' text-anchor='end' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='34.66px' lengthAdjust='spacingAndGlyphs'>KEGG</text>
+<text x='69.22' y='211.77' text-anchor='end' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.66px' lengthAdjust='spacingAndGlyphs'>BGF</text>
+<text x='69.22' y='141.89' text-anchor='end' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='48.03px' lengthAdjust='spacingAndGlyphs'>Diamond</text>
+<text x='69.22' y='72.01' text-anchor='end' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='28.67px' lengthAdjust='spacingAndGlyphs'>HMM</text>
+<text x='82.13' y='336.15' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='6.67px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='91.02' y='336.15' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Symbol";' textLength='6.59px' lengthAdjust='spacingAndGlyphs'>×</text>
+<text x='99.83' y='336.15' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='13.34px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='113.18' y='330.23' style='font-size: 8.40px;fill: #4D4D4D; font-family: "Arial";' textLength='4.67px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='204.56' y='336.05' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='6.67px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='213.46' y='336.05' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Symbol";' textLength='6.59px' lengthAdjust='spacingAndGlyphs'>×</text>
+<text x='222.27' y='336.05' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='13.34px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='235.61' y='330.13' style='font-size: 8.40px;fill: #4D4D4D; font-family: "Arial";' textLength='4.67px' lengthAdjust='spacingAndGlyphs'>5</text>
+<text x='327.00' y='336.05' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='6.67px' lengthAdjust='spacingAndGlyphs'>4</text>
+<text x='335.89' y='336.05' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Symbol";' textLength='6.59px' lengthAdjust='spacingAndGlyphs'>×</text>
+<text x='344.70' y='336.05' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='13.34px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='358.05' y='330.13' style='font-size: 8.40px;fill: #4D4D4D; font-family: "Arial";' textLength='4.67px' lengthAdjust='spacingAndGlyphs'>5</text>
+<text x='449.43' y='336.05' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='6.67px' lengthAdjust='spacingAndGlyphs'>6</text>
+<text x='458.33' y='336.05' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Symbol";' textLength='6.59px' lengthAdjust='spacingAndGlyphs'>×</text>
+<text x='467.14' y='336.05' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='13.34px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='480.48' y='330.13' style='font-size: 8.40px;fill: #4D4D4D; font-family: "Arial";' textLength='4.67px' lengthAdjust='spacingAndGlyphs'>5</text>
+<text x='571.86' y='336.05' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='6.67px' lengthAdjust='spacingAndGlyphs'>8</text>
+<text x='580.76' y='336.05' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Symbol";' textLength='6.59px' lengthAdjust='spacingAndGlyphs'>×</text>
+<text x='589.57' y='336.05' style='font-size: 12.00px;fill: #4D4D4D; font-family: "Arial";' textLength='13.34px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='602.92' y='330.13' style='font-size: 8.40px;fill: #4D4D4D; font-family: "Arial";' textLength='4.67px' lengthAdjust='spacingAndGlyphs'>5</text>
+<text x='358.33' y='351.58' text-anchor='middle' style='font-size: 14.00px; font-family: "Arial";' textLength='144.73px' lengthAdjust='spacingAndGlyphs'>Total Gene Annotations</text>
+<text x='358.33' y='16.93' text-anchor='middle' style='font-size: 16.00px; font-family: "Arial";' textLength='4.45px' lengthAdjust='spacingAndGlyphs'> </text>
+</g>
+</g>
+</svg>

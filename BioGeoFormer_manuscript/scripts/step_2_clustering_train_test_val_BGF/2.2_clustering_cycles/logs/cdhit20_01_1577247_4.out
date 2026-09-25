@@ -1,8 +1,0 @@
-[Wed Aug 27 06:32:57 AM PDT 2025] Starting task 4 on 16 threads
-Command: /local/cluster/cd-hit-v4.8.1-2019-0228/psi-cd-hit/psi-cd-hit.pl -i "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_30/oxid_formaldehyde_c30.faa" -o "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_20/oxid_formaldehyde_c20.faa" -c 0.2 -para 4 -blp 4
-BLAST version:
-blastp: 2.16.0+
- Package: blast 2.16.0, build Dec 14 2024 23:05:40
-
-
-[Wed Aug 27 07:35:24 AM PDT 2025] Task 4 finished

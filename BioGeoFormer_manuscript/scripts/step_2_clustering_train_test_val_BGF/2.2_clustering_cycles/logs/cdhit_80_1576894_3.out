@@ -1,83 +1,0 @@
-[Wed Aug 27 05:19:17 AM UTC 2025] Running task 3 on 16 threads
-Command: cd-hit -i "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_90/assnitred_c90.faa" -o "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_80/assnitred_c80.faa" -c 0.80 -n 5 -M 61440 -T 16
-================================================================
-Program: CD-HIT, V4.8.1 (+OpenMP), Dec 13 2024, 22:16:14
-Command: cd-hit -i
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_90/assnitred_c90.faa
-         -o
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_80/assnitred_c80.faa
-         -c 0.80 -n 5 -M 61440 -T 16
-
-Started: Wed Aug 27 05:19:17 2025
-================================================================
-                            Output                              
-----------------------------------------------------------------
-total seq: 2831
-longest and shortest : 1847 and 40
-Total letters: 1703476
-Sequences have been sorted
-
-Approximated minimal memory consumption:
-Sequence        : 2M
-Buffer          : 16 X 16M = 262M
-Table           : 2 X 65M = 130M
-Miscellaneous   : 0M
-Total           : 395M
-
-Table limit with the given memory limit:
-Max number of representatives: 4000000
-Max number of word counting entries: 7630527232
-
-# comparing sequences from          0  to        157
----------- new table with      118 representatives
-# comparing sequences from        157  to        305
-...................----------     42 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from        263  to        405
-..................----------      3 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from        402  to        536
-...................----------      8 remaining sequences to the next cycle
----------- new table with      100 representatives
-# comparing sequences from        528  to        655
-..................---------- new table with       94 representatives
-# comparing sequences from        655  to        775
-................---------- new table with       90 representatives
-# comparing sequences from        775  to        889
-...................---------- new table with       89 representatives
-# comparing sequences from        889  to        996
-.................---------- new table with       72 representatives
-# comparing sequences from        996  to       1097
-..................---------- new table with       67 representatives
-# comparing sequences from       1097  to       1193
-...............---------- new table with       71 representatives
-# comparing sequences from       1193  to       1284
-..............---------- new table with       76 representatives
-# comparing sequences from       1284  to       1369
-.................---------- new table with       51 representatives
-# comparing sequences from       1369  to       1450
-..............---------- new table with       51 representatives
-# comparing sequences from       1450  to       1526
-.................---------- new table with       53 representatives
-# comparing sequences from       1526  to       1598
-................---------- new table with       49 representatives
-# comparing sequences from       1598  to       1666
-..............---------- new table with       43 representatives
-# comparing sequences from       1666  to       1730
-..............---------- new table with       38 representatives
-# comparing sequences from       1730  to       1791
-...........---------- new table with       33 representatives
-# comparing sequences from       1791  to       1848
-..................---------- new table with       51 representatives
-# comparing sequences from       1848  to       2831
-..................---------- new table with      719 representatives
-
-     2831  finished       2065  clusters
-
-Approximated maximum memory consumption: 397M
-writing new database
-writing clustering information
-program completed !
-
-Total CPU time 5.37
-[Wed Aug 27 05:19:24 AM UTC 2025] Task 3 finished.

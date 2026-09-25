@@ -1,73 +1,0 @@
-[Wed Aug 27 05:48:25 AM UTC 2025] Node: calculon
-[Wed Aug 27 05:48:25 AM UTC 2025] Task 24 using 16 threads
-Command: cd-hit -i "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_60/phosph_met_c60.faa" -o "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_50/phosph_met_c50.faa" -c 0.50 -n 3 -M 61440 -T 16
-================================================================
-Program: CD-HIT, V4.8.1 (+OpenMP), Dec 13 2024, 22:16:14
-Command: cd-hit -i
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_60/phosph_met_c60.faa
-         -o
-         /nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_50/phosph_met_c50.faa
-         -c 0.50 -n 3 -M 61440 -T 16
-
-Started: Wed Aug 27 05:48:25 2025
-================================================================
-                            Output                              
-----------------------------------------------------------------
-total seq: 2300
-longest and shortest : 1218 and 41
-Total letters: 625383
-Sequences have been sorted
-
-Approximated minimal memory consumption:
-Sequence        : 0M
-Buffer          : 16 X 16M = 260M
-Table           : 2 X 0M = 0M
-Miscellaneous   : 0M
-Total           : 261M
-
-Table limit with the given memory limit:
-Max number of representatives: 4000000
-Max number of word counting entries: 7647253741
-
-# comparing sequences from          0  to        127
----------- new table with       80 representatives
-# comparing sequences from        127  to        247
-.................27.3%27.8%28.9%29.7%30.2%31.0%31.7%32.7%33.3%33.9%34.7%35.3%36.0%36.7%36.9%37.7%38.3%39.0%40.3%41.4%42.7%43.5%44.3%44.9%45.8%46.7%47.5%48.0%49.1%50.4%51.4%52.0%53.0%53.7%54.8%55.8%56.3%56.8%57.4%58.3%59.0%60.0%60.8%61.5%62.2%62.7%63.6%65.0%65.4%65.9%66.7%67.0%67.7%68.6%69.4%70.1%70.7%71.4%72.2%72.9%73.6%74.1%74.6%74.9%75.3%76.2%76.5%77.1%77.8%78.3%78.6%79.0%79.7%80.3%81.1%81.8%82.4%83.5%84.0%84.5%85.3%86.3%86.8%87.5%88.0%89.0%90.1%91.0%91.5%92.2%92.7%93.6%94.4%95.2%96.1%96.6%96.7%97.6%98.0%98.7%99.9%---------- new table with       52 representatives
-# comparing sequences from        247  to        361
-..............67.6%68.9%70.0%70.6%70.9%71.8%72.1%72.3%73.3%73.6%73.8%74.7%75.1%76.3%77.5%79.0%80.2%81.3%82.5%83.5%85.4%85.7%86.4%87.6%88.6%89.1%90.3%91.3%91.7%92.7%93.8%95.1%96.2%97.4%99.6%---------- new table with       42 representatives
-# comparing sequences from        361  to        468
-.......56.4%57.3%58.0%59.7%60.4%61.5%62.2%62.4%62.8%63.2%64.6%64.9%65.5%65.9%66.5%66.9%67.1%67.6%67.9%69.5%70.5%72.1%72.7%74.1%74.4%74.8%75.4%76.1%76.3%77.7%78.2%79.0%80.1%80.8%81.6%82.1%82.6%83.9%85.3%85.7%86.4%86.6%86.9%87.5%88.7%88.9%89.7%90.3%91.1%91.7%92.5%93.7%94.3%94.7%95.9%96.3%96.7%97.7%99.0%99.3%99.9%---------- new table with       30 representatives
-# comparing sequences from        468  to        569
-...34.0%34.7%35.6%36.2%37.1%38.0%38.7%40.5%41.5%41.7%43.4%45.7%46.1%46.7%47.4%47.8%48.7%49.1%50.9%51.6%52.5%52.7%53.7%54.4%54.7%55.6%56.6%56.7%57.4%58.6%59.3%60.2%61.1%62.1%62.4%63.2%63.6%63.7%64.3%64.7%65.4%65.8%66.4%67.1%67.8%68.2%68.7%69.6%70.3%70.7%71.2%72.2%73.6%74.0%75.0%75.6%76.7%77.2%78.6%79.3%80.0%80.7%81.0%81.2%81.8%82.3%83.0%83.3%84.0%85.6%87.1%87.7%88.8%90.3%91.3%92.1%93.0%93.7%94.5%95.5%95.9%97.2%97.3%97.8%98.2%99.3%---------- new table with       12 representatives
-# comparing sequences from        569  to        665
-.........---------- new table with       34 representatives
-# comparing sequences from        665  to        755
-...............---------- new table with       49 representatives
-# comparing sequences from        755  to        840
-...............41.5%42.7%43.3%43.5%45.3%45.6%47.7%48.2%49.7%50.5%51.3%52.6%53.0%53.4%53.9%55.3%55.5%55.9%57.5%59.3%59.7%60.0%61.1%61.9%62.5%62.8%63.0%64.0%64.6%65.0%65.6%65.7%66.0%67.3%68.6%69.3%70.0%70.7%72.1%73.1%74.3%75.0%75.9%77.7%78.8%79.0%80.8%81.3%82.6%83.4%84.2%84.9%86.4%87.4%88.8%90.3%91.3%91.8%93.0%93.6%94.7%95.9%96.3%96.6%96.7%97.0%98.1%98.3%98.8%99.9%---------- new table with       26 representatives
-# comparing sequences from        840  to        921
-.........---------- new table with       28 representatives
-# comparing sequences from        921  to        997
-............---------- new table with       32 representatives
-# comparing sequences from        997  to       1069
-.....62.3%63.4%63.6%67.2%68.3%69.1%69.8%70.3%70.8%71.3%73.3%74.7%75.3%75.7%76.3%78.0%80.0%80.5%82.3%83.2%84.1%85.0%85.3%85.6%86.1%86.6%86.8%87.6%88.3%89.0%89.3%90.7%91.1%92.6%93.7%94.0%94.5%95.4%95.6%96.2%97.2%97.5%98.6%---------- new table with       16 representatives
-# comparing sequences from       1069  to       1137
-...........---------- new table with       29 representatives
-# comparing sequences from       1137  to       1201
-......74.9%75.1%77.0%79.2%79.7%80.3%81.3%83.4%83.8%84.2%85.0%85.7%86.9%87.7%88.7%89.0%90.5%90.7%90.9%92.6%93.9%94.4%95.7%97.8%---------- new table with       25 representatives
-# comparing sequences from       1201  to       1262
-...........67.9%69.0%69.7%70.3%71.0%71.7%71.9%72.7%73.9%74.6%76.3%77.0%77.8%78.6%79.4%80.8%82.0%84.0%85.0%85.8%86.4%86.7%87.3%88.3%88.8%90.3%91.5%92.9%94.3%95.1%97.0%97.2%97.4%98.9%---------- new table with       25 representatives
-# comparing sequences from       1262  to       1319
-............93.2%93.9%94.7%95.2%95.3%96.3%96.9%97.2%97.4%---------- new table with       41 representatives
-# comparing sequences from       1319  to       2300
-.............---------- new table with      378 representatives
-
-     2300  finished        899  clusters
-
-Approximated maximum memory consumption: 262M
-writing new database
-writing clustering information
-program completed !
-
-Total CPU time 19.13
-[Wed Aug 27 05:48:33 AM UTC 2025] Task 24 finished.

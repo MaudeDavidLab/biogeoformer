@@ -1,4 +1,0 @@
-[Wed Aug 27 08:02:56 PM UTC 2025] Node: calculon
-[Wed Aug 27 08:02:57 PM UTC 2025] Running task 302/330
-[Wed Aug 27 08:02:58 PM UTC 2025] Command: /local/cluster/cd-hit-v4.8.1-2019-0228/clstr2txt.pl "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/split_data_100/serine_c100.faa.clstr" > "/nfs5/MICRO/Thurber_Lab/jacob/cycformer_datasplit_aug26/output_tables/serine_100.txt"
-[Wed Aug 27 08:03:27 PM UTC 2025] Done.
