@@ -9,7 +9,7 @@ While the tool does run on CPU-based infrastructure, we strongly recommend using
 
 ### Current version
 
-Version 1.0.0
+Version 1.1.0
 
 ### Using HuggingFace
 ```python
